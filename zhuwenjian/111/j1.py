@@ -1,2 +1,3 @@
 print('hello world')
-num = 1
+num1 = 1
+num2 = 2
